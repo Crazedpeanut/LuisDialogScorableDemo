@@ -1,0 +1,44 @@
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Bot Application.dll.config
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Bot Application.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Bot Application.pdb
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Autofac.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Chronic.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Builder.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Connector.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Newtonsoft.Json.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Net.Http.Formatting.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Web.Http.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Web.Http.WebHost.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Autofac.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Builder.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.Bot.Connector.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\Newtonsoft.Json.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Net.Http.Formatting.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Web.Http.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\System.Web.Http.WebHost.xml
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\obj\Debug\ScorableDemp.csprojResolveAssemblyReference.cache
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\obj\Debug\ScorableDemp.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\obj\Debug\Bot Application.dll
+C:\Users\john\source\repos\ScorableDemp\ScorableDemp\obj\Debug\Bot Application.pdb
